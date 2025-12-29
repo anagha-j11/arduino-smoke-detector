@@ -1,5 +1,5 @@
-# aurdino-smoke-detector
-Beginner Aurdino smoke detector using MQ sensor, buzzer and LCD.
+# arduino-smoke-detector
+Beginner Arduino smoke detector using MQ sensor, buzzer and LCD.
 
 This project is a beginner-level Arduino-based smoke detector designed to sense smoke or gas leakage and alert users using visual and audio indicators.
 
